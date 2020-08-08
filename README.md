@@ -1,4 +1,4 @@
-## Hey nerdy stalker!! 👋
+
 
 <!--
 **newbee0/newbee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+***In computing, what's the only way to generate a truly random string?***
 
+***Put a Windows user in front of VI and tell him to quit.
+XDDDDD***
